@@ -1,6 +1,6 @@
 ﻿namespace NsuWormsWebService.Models
 {
-    public class BehaviourData
+    public class BehaviourModel
     {
         public string Direciton { get; set; }
         public bool Split { get; set; }
